@@ -1,0 +1,4 @@
+org\webflux\cve202334034\publicRoute.class
+org\webflux\cve202334034\WebFluxSecurityConfig.class
+org\webflux\cve202334034\applicationController.class
+org\webflux\cve202334034\AdminController.class
